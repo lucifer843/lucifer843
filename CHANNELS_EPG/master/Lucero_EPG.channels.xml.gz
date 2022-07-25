@@ -9,15 +9,15 @@
 <channel id="HDMI IN">8192:0:1:0:1:0:1:0:1:0:</channel> <!-- HDMI IN -->
 
 <channel id="LA 1 HD">1:0:19:234:3F7:22D4:EEEE0000:0:0:0</channel> <!-- LA 1 HD -->
-<channel id="LA 2 HD">1:0:19:238:3F7:22D4:EEEE0000:0:0:0</channel> <!-- LA 2 HD -->
+<channel id="La 2 HD">1:0:19:238:3F7:22D4:EEEE0000:0:0:0</channel> <!-- LA 2 HD -->
 <channel id="ANTENA 3 HD">1:0:19:95:F:22D4:EEEE0000:0:0:0</channel> <!-- ANTENA 3 HD -->
 <channel id="CUATRO HD">1:0:19:BF:10:22D4:EEEE0000:0:0:0</channel> <!-- CUATRO HD -->
 <channel id="TELECINCO HD">1:0:19:BE:10:22D4:EEEE0000:0:0:0</channel> <!-- TELECINCO HD -->
 <channel id="LA SEXTA HD">1:0:19:97:F:22D4:EEEE0000:0:0:0</channel> <!-- LA SEXTA HD -->
-<channel id="ETB1 HD">1:0:1:4E5:C4:22D4:EEEE0000:0:0:0</channel> <!-- ETB1 HD -->
-<channel id="ETB2 HD">1:0:1:4E6:C4:22D4:EEEE0000:0:0:0</channel> <!-- ETB2 HD -->
-<channel id="ETB4">1:0:1:4E4:C4:22D4:EEEE0000:0:0:0</channel> <!-- ETB4 -->
-<channel id="ETB3">1:0:1:4E3:C4:22D4:EEEE0000:0:0:0</channel> <!-- ETB3 -->
+<channel id="ETB 1 HD">1:0:1:4E5:C4:22D4:EEEE0000:0:0:0</channel> <!-- ETB1 HD -->
+<channel id="ETB 2 HD">1:0:1:4E6:C4:22D4:EEEE0000:0:0:0</channel> <!-- ETB2 HD -->
+<channel id="ETB4">1:0:1:4E4:C4:22D4:EEEE0000:0:0:0</channel> <!-- ETB 4 -->
+<channel id="ETB3">1:0:1:4E3:C4:22D4:EEEE0000:0:0:0</channel> <!-- ETB 3 -->
 
 <channel id="LA 1 HD">1:0:19:7863:41A:1:C00000:0:0:0:</channel> <!-- LA 1 HD -->
 <channel id="ANTENA 3 HD">1:0:19:7534:426:1:C00000:0:0:0</channel> <!-- ANTENA 3 HD -->
