@@ -480,5 +480,191 @@
 <channel id="Somos">1:0:19:8:6:6:FED40000:0:0:0</channel> <!-- SOMOS -->
 <channel id="XTRM">1:0:19:3:6:6:FED40000:0:0:0</channel> <!-- XTRM -->
 <channel id="APPLE TV">8192:0:19:6969:123:1:C00000:0:0:0:</channel> <!-- APPLE TV -->
-
 </channels>
+
+<channel id="XTRM.es">
+    <display-name lang="es">XTRM</display-name>
+  </channel>
+  <channel id="LA1.es">
+    <display-name lang="es">TVE 1</display-name>
+  </channel>
+  <channel id="TEN.es">
+    <display-name lang="es">TEN</display-name>
+  </channel>
+  <channel id="Telecinco.es">
+    <display-name lang="es">Telecinco</display-name>
+  </channel>
+  <channel id="Somos.es">
+    <display-name lang="es">Somos</display-name>
+  </channel>
+  <channel id="LaSexta.sp">
+    <display-name lang="es">La Sexta</display-name>
+  </channel>
+  <channel id="Paramount.es">
+    <display-name lang="es">Paramount Channel</display-name>
+  </channel>
+  <channel id="Mega.es">
+    <display-name lang="es">MEGA</display-name>
+  </channel>
+  <channel id="LA2.es">
+    <display-name lang="es">LA 2</display-name>
+  </channel>
+  <channel id="FDF.es">
+    <display-name lang="es">Factoría de Ficción</display-name>
+  </channel>
+  <channel id="Energy.es">
+    <display-name lang="es">Energy</display-name>
+  </channel>
+  <channel id="DKISS.es">
+    <display-name lang="es">DKISS</display-name>
+  </channel>
+  <channel id="Divinity.es">
+    <display-name lang="es">Divinity</display-name>
+  </channel>
+  <channel id="DMAX.es">
+    <display-name lang="es">DMAX</display-name>
+  </channel>
+  <channel id="Dark.es">
+    <display-name lang="es">Dark</display-name>
+  </channel>
+  <channel id="Cuatro.es">
+    <display-name lang="es">Cuatro</display-name>
+  </channel>
+  <channel id="BeMadTV.es">
+    <display-name lang="es">BE MAD TV HD</display-name>
+  </channel>
+  <channel id="A3seriesHD.es">
+    <display-name lang="es">Atreseries</display-name>
+  </channel>
+  <channel id="Antena3.es">
+    <display-name lang="es">Antena 3</display-name>
+  </channel>
+<channel id="Teledeporte.es">
+    <display-name lang="es">Teledeporte</display-name>
+  </channel>
+<channel id="ETB3.es">
+    <display-name lang="es">ETB3</display-name>
+  </channel>
+  <channel id="ETB2.es">
+    <display-name lang="es">ETB 2</display-name>
+  </channel>
+  <channel id="ETB1.es">
+    <display-name lang="es">ETB 1</display-name>
+  </channel>
+<channel id="ClanTVE.es">
+    <display-name lang="es">Clan TVE</display-name>
+  </channel>
+  <channel id="BarcaTV.es">
+    <display-name lang="es">Barça TV</display-name>
+  </channel>
+  <channel id="ETB4.es">
+    <display-name lang="es">ETB 4</display-name>
+  </channel>
+<channel id="Nova.es">
+    <display-name lang="es">Nova</display-name>
+  </channel>
+  <channel id="Neox.es">
+    <display-name lang="es">Neox</display-name>
+  </channel>
+</channel>
+  <channel id="GOL.es">
+    <display-name lang="es">GOL PLAY</display-name>
+  </channel>
+  <channel id="DisneyChannel.es">
+    <display-name lang="es">Disney Channel</display-name>
+  </channel>
+  <channel id="SolMusica.sp">
+    <display-name lang="es">Sol Música</display-name>
+  </channel>
+<channel id="DarkRed.es">
+    <display-name lang="es">Dark Red</display-name>
+  <!-- INFO Portugal --> 
+
+<channel id="SportTVplus.pt">5002:0:1:EC:30:36:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- SPORT TV + -->
+<channel id="sporttv1.pt">5002:0:1:1C3:68:53:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- SPORT TV 1 -->
+<channel id="sporttv2.pt">5002:0:1:1C4:68:53:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- SPORT TV 2 -->
+<channel id="sporttv3.pt">5002:0:1:1C5:68:53:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- SPORT TV 3 -->
+<channel id="sporttv4.pt">5002:0:1:1783:26:36:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- SPORT TV 4 -->
+<channel id="sporttv5.pt">5002:0:1:17B5:26:36:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- SPORT TV 5 -->
+<channel id="elevensports1.pt">5002:0:1:13AE:27:36:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Eleven Sports 1 -->
+<channel id="elevensports2.pt">5002:0:1:1C9:68:53:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Eleven Sports 2 -->
+<channel id="elevensports3.pt">5002:0:1:1D0:68:53:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Eleven Sports 3 -->
+<channel id="elevensports4.pt">5002:0:1:13B0:27:36:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Eleven Sports 4 -->
+<channel id="elevensports5.pt">5002:0:1:13B1:27:36:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Eleven Sports 5 -->
+<channel id="elevensports6.pt">5002:0:1:1CF:68:53:CE40000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Eleven Sports 6 --> 
+
+<!-- INFO Latin --> 
+
+<channel id="LaLigaTV.uk">5002:0:1:24A:4J8:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- SKY SPORTS Ñ -->
+<channel id="beINSportsXtraenEspanol.us">5002:0:1:29A:4F9:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- BEIN SPORTS Ñ -->
+<channel id="DirecTVSportsPlus.us">5002:0:1:29B:A674:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Directv Sports + (AR) -->
+<channel id="179directv.cl">5002:0:1:29B:A674:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Directv Sports + -->
+<channel id="ESPNPremium.ar">5002:0:1:29B:A685:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- ESPN PREMIUM (AR) -->
+<channel id="TyCSports.ar">5002:0:1:2A4:C33E:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- TYC Sports (AR) -->
+<channel id="TNT.Sports.HDTV.(TNTSP).ar">5002:0:1:2A4:C24B:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- TNT Sports (AR) -->
+<channel id="TNTSportsArgentina.ar">5002:0:1:2A4:C24B:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- TNT Sports (AR) -->
+<channel id="DirecTVSportsHDArgentina.ar">5002:0:1:29A:C24F:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- DIRECTV Sports (ARG) -->
+<channel id="610dtv.ar">5002:0:1:29A:C24F:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- DIRECTV Sports (ARG) -->
+<channel id="DirecTVSports2.us">5002:0:1:2A4:C245:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- DIRECTV Sports 2 (ARG) -->
+<channel id="612directv.cl">5002:0:1:2A4:C245:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- DIRECTV Sports 2 (ARG) -->
+<channel id="ESPNArgentina.ar">5002:0:1:2A4:C239:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- ESPN Argentina -->
+<channel id="ESPNHDArgentina.ar">5002:0:1:2A4:C239:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- ESPN Argentina -->
+<channel id="ESPN.2.(Argentina).(ESPN.2).ar">5002:0:1:2A4:C238:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- ESPN 2 HD (AR) -->
+<channel id="ESPN.3.South.(Latin.America).(ESPN3).ar">5002:0:1:2A4:C237:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- ESPN 3 HD (AR) -->
+<channel id="FoxSportsHDArgentina.ar">5002:0:1:2A4:C22C:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- FOX Sports Argentina -->
+<channel id="1605dtv.ar">5002:0:1:2A4:C22C:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- FOX Sports Argentina -->
+<channel id="Fox.Sports.2.(Cono.Norte).(FOXSP2).ar">5002:0:1:2A4:C22B:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- FOX Sport 2 (AR) -->
+<channel id="606dtv.ar">5002:0:1:2A4:C22B:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- FOX Sport 2 (AR) -->
+<channel id="610dtv.co">5002:0:1:2A4:C876:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- DIRECTV Sports (COL) -->
+<channel id="WinSports.co">5002:0:1:2A4:C871:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- WinSports (CO) -->
+<channel id="633dtv.co">5002:0:1:2A4:C871:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- WinSports (CO) -->
+<channel id="winsportsplus.co">5002:0:1:2A4:C869:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- WinSportsPlus (CO) -->
+<channel id="634dtv.co">5002:0:1:2A4:C869:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- WinSportsPlus (CO) -->
+<channel id="ClaroSportsChile.cl">5002:0:1:2A4:C875:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- CLARO SPORT (CL) -->
+<channel id="tntsports.cl">5002:0:1:2A9:A84B:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- TNT Sports (CL) -->
+<channel id="tntsports2.cl">5002:0:1:2A1:A63B:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- TNT Sports 2 (CL) -->
+<channel id="tntsports3.cl">5002:0:1:6A7:A66B:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- TNT Sports 3 (CL) --> 
+
+<!-- INFO Pluto TV --> 
+
+<channel id="ESBA3300033PL">5002:0:1:405:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- El encantador de perros -->
+<channel id="60e45687313c5f0007bc8e94">5002:0:1:405:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- El encantador de perros -->
+<channel id="ESBA3300027H5">5002:0:1:250:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Las Reglas Del Juego -->
+<channel id="5f1acb4eebe0f0000767b40f">5002:0:1:250:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Las Reglas Del Juego -->
+<channel id="60d356a534f63f000850cdd7">5002:0:1:415:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Top Gear -->
+<channel id="6076c74daa05ac0007d0eb07">5002:0:1:615:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Tuning -->
+<channel id="ESAJ3800008ZD">5002:0:1:7769:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Mundo Real -->
+<channel id="E5f5a0b44cc331900075e7769">5002:0:1:7769:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Mundo Real -->
+<channel id="5f28009b150b2500077766b8">5002:0:1:206:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Vaya semanita -->
+<channel id="60f58d45696a530007088486">5002:0:1:212:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Matrimonio con hijos -->
+<channel id="5f984f4a09e92d0007d74647">5002:0:1:300:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Archivos Forenses -->
+<channel id="61bb2814ac085a00074309a6">5002:0:1:240:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Unidad de investigación -->
+<channel id="6267d4d1fb694f0007a6af0e">5002:0:1:106:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Terror TV -->
+<channel id="61cd78920b90cb0007e28231">5002:0:1:155:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Documentales -->
+<channel id="60218baa464ef900073168c1">5002:0:1:400:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Empeños a lo bestia -->
+<channel id="62444f34ea3ade0007ade6ac">5002:0:1:53:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- MTV Urban Music -->
+<channel id="61ea759737679900078ff559">5002:0:1:740:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- MTV Party Music -->
+<channel id="5f5a09b16cd4ab0007d24fb8">5002:0:1:4FB8:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Big Time Rush -->
+<channel id="6271503d13aef10007cf15e8">5002:0:1:15E8:0:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- iCarly+ --> 
+
+<!-- INFO Rakuten TV --> 
+
+<channel id="ESBC2700002LO">5002:0:16:618C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Grjngo Películas Del Oeste -->
+<channel id="ESAJ4500019AM">5002:0:16:638C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Comedias Rakuten TV -->
+<channel id="ESAJ4500021HQ">5002:0:16:623C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Documentales - Rakuten TV -->
+<channel id="ESBA1400003LA">5002:0:16:653C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- BBC Drama -->
+<channel id="ESBC2700003T8">5002:0:16:633C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Bjgtjme - Películas Gratis -->
+<channel id="ESBC40000248">5002:0:16:663C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Dark Matter TV -->
+<channel id="ESBC400001QQ">5002:0:16:643C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Runtime -->
+<channel id="ESBC27000062Q">5002:0:16:648C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Cine Español - Rakuten TV -->
+<channel id="ESBC27000079V">5002:0:16:658C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Películas Románticas - Rakuten TV -->
+<channel id="ESBA3300017FA">5002:0:16:668C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Familiares - Rakuten TV -->
+<channel id="ESBA2200008NQ">5002:0:16:678C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Cortos -->
+<channel id="ESBC2700005EE">5002:0:16:688C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Películas Top - Rakuten TV -->
+<channel id="ESAJ4500020V7">5002:0:16:698C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Dramas - Rakuten TV -->
+<channel id="ESAJ45000181E">5002:0:16:613C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Acción - Rakuten TV -->
+<channel id="ESBC2100002LV">5002:0:16:683C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Vevo Latino -->
+<channel id="ESBC2100001IU">5002:0:16:693C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Vevo Pop -->
+<channel id="ESBA2200005D6">5002:0:16:215C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Todo Crimen -->
+<channel id="ESAJ3800005C5">5002:0:16:213C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Comedia Made in Spain -->
+<channel id="ESBA3300039ZX">5002:0:16:214C:414:1:C00000:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124</channel> <!-- Tu cine -->
