@@ -22,17 +22,17 @@
 <channel id="NEOX">1:0:1:99:F:22D4:EEEE0000:0:0:0<url>http://www.plus.es</url>
     <display-name lang="es">neox</display-name>
   </channel>
-<channel id="ETB1.es">1:0:1:4E5:C4:22D4:EEEE0000:0:0:0:<url>http://www.plus.es</url>
+<channel id="ETB1HD">1:0:1:4E5:C4:22D4:EEEE0000:0:0:0:<url>http://www.plus.es</url>
     <display-name lang="es">ETB1 HD</display-name>
   </channel>
-<channel id="ETB2.es">1:0:1:4E6:C4:22D4:EEEE0000:0:0:0:<url>http://www.plus.es</url>
+<channel id="ETB2 HD">1:0:1:4E6:C4:22D4:EEEE0000:0:0:0:<url>http://www.plus.es</url>
     <display-name lang="es">ETB2 HD</display-name>
   </channel>
 <channel
-id="ETB4.es">1:0:1:4E4:C4:22D4:EEEE0000:0:0:0:<url>http://www.plus.es</url>
+id="ETB4">1:0:1:4E4:C4:22D4:EEEE0000:0:0:0:<url>http://www.plus.es</url>
     <display-name lang="es">ETB4</display-name>
   </channel>
-<channel id="ETB3.es">1:0:1:4E3:C4:22D4:EEEE0000:0:0:0:<url>http://www.plus.es</url>
+<channel id="ETB3">1:0:1:4E3:C4:22D4:EEEE0000:0:0:0:<url>http://www.plus.es</url>
     <display-name lang="es">ETB3</display-name>
   </channel>
 <channel id="DMAX">1:0:1:115:E:22D4:EEEE0000:0:0:0<url>http://www.plus.es</url>
@@ -81,7 +81,7 @@ id="ETB4.es">1:0:1:4E4:C4:22D4:EEEE0000:0:0:0:<url>http://www.plus.es</url>
 <channel id="GOL PLAY">1:0:1:116:E:22D4:EEEE0000:0:0:0<url>http://www.plus.es</url>
     <display-name lang="es">GOL PLAY</display-name>
   </channel>
-<channel id="GOL.es">1:0:1:116:E:22D4:EEEE0000:0:0:0<url>http://www.plus.es</url>
+<channel id="GOL">1:0:1:116:E:22D4:EEEE0000:0:0:0<url>http://www.plus.es</url>
     <display-name lang="es">GOL PLAY</display-name>
   </channel>
 <channel id="PARAMOUNT">1:0:1:CA:E:22D4:EEEE0000:0:0:0<url>http://www.plus.es</url>
@@ -91,7 +91,7 @@ id="ETB4.es">1:0:1:4E4:C4:22D4:EEEE0000:0:0:0:<url>http://www.plus.es</url>
 <channel id="Somos.es">5002:0:1:2AE:57:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124<url>http://www.plus.es</url>
     <display-name lang="es">SOMOS</display-name>
   </channel>
-<channel id="XTRM.es">5002:0:1:29A:104:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124<url>http://www.plus.es</url>
+<channel id="XTRM">5002:0:1:29A:104:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124<url>http://www.plus.es</url>
     <display-name lang="es">XTRM-->
 <channel id="XTRM">5002:0:1:29A:104:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124<url>http://www.plus.es</url>
     <display-name lang="es">XTRM-->
@@ -99,8 +99,8 @@ id="ETB4.es">1:0:1:4E4:C4:22D4:EEEE0000:0:0:0:<url>http://www.plus.es</url>
     <display-name lang="es">Dark</display-name>
   </channel>
 <channel id="BOM">5002:0:1:F56B:2851:EC:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124<url>http://www.plus.es</url>
-    <display-name lang="es">BOM</display-name>
+    <display-name lang="es">BOM CINE</display-name>
   </channel>
-<channel id="SolMusica.sp">5002:0:1:2AF:8149:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124<url>http://www.plus.es</url>
+<channel id="SolMusica">5002:0:1:2AF:8149:0:0:0:0:0:http%3a//192.168.1.203%3a5004/auto/v5124<url>http://www.plus.es</url>
     <display-name lang="es">SOL MUSICA</display-name>
   </channel>
